@@ -39,7 +39,6 @@
 - **Descripción:** Calcula el Índice de Masa Corporal (IMC) basado en la altura y el peso que ingreses.
 
 ## 🚀 Cómo Empezar
-
 1. **Clona el Repositorio:**
 
    git clone https://github.com/usuario/nombre-repo.git
@@ -51,7 +50,6 @@
    javac <ruta/al/archivo/Programa.java>
    java <ruta/al/archivo/Programa>
 
-
 ## 🛠️ Aportaciones y Comentarios
 
 ### **Contribución**
@@ -61,8 +59,5 @@
 Este proyecto está licenciado bajo la MIT License.
 
 ---
-
-Espero disfrutes explorando mis programas tanto como yo disfruté creándolos 💖...
-
 
 
