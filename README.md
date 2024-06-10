@@ -38,6 +38,10 @@
 - **Archivo:** IMC.java
 - **Descripción:** Calcula el Índice de Masa Corporal (IMC) basado en la altura y el peso que ingreses.
 
+### **Conversor De Monedas**
+- **Archivo:** conversorMonedas.java
+- **Descripción:** contiene opciones para convertir los tipos de monedas de manera mas facil.
+
 ## 🚀 Cómo Empezar
 1. **Clona el Repositorio:**
 
