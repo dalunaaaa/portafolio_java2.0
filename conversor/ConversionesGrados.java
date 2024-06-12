@@ -1,8 +1,7 @@
 package conversor;
-import opciones.ListaOpciones;
 import java.util.Scanner;
 
-public class conversiones {
+public class ConversionesGrados {
         public static void ejecutar() {
             Scanner scanner = new Scanner(System.in);
 

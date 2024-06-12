@@ -1,8 +1,8 @@
-package Funciones;
+package conversor;
 
 import java.util.Scanner;
 
-public class medidas {
+public class Medidas {
     public static void mds () {
         Scanner scanner = new Scanner(System.in);
 

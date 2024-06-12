@@ -1,5 +1,4 @@
-package ptogramaIMC;
-import opciones.ListaOpciones;
+package IMC;
 import java.util.Scanner;
 
 public class IMC {

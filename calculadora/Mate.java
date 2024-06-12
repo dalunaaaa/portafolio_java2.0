@@ -1,8 +1,8 @@
-package matematicas;
-import opciones.ListaOpciones;
+package calculadora;
+import mis_metodos.ListaOpciones;
 import java.util.Scanner;
 
-public class mate {
+public class Mate {
     //lista opciones mate
     public static String[] opciones = {"Sumar","Restar","Dividir","Multiplicar"};
     public static double sumar(double a,double b){ return a+b; }
@@ -14,7 +14,7 @@ public class mate {
 // programa mate
     public static void programa(){
 
-        ListaOpciones.cargarOpciones(mate.opciones);
+        ListaOpciones.cargarOpciones(Mate.opciones);
 
         Scanner intoDocu = new Scanner(System.in);
         System.out.print("[?]: ");

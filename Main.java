@@ -1,12 +1,11 @@
 import java.util.Scanner;
-
-import monedas.ConversorMonedas;
-import opciones.ListaOpciones;
-import interfaz_grafica.banner;
-import matematicas.mate;
-import ptogramaIMC.IMC;
-import conversor.conversiones;
-import Funciones.medidas;
+import conversor.ConversorMonedas;
+import mis_metodos.ListaOpciones;
+import interfaz_grafica.Banner;
+import calculadora.Mate;
+import IMC.IMC;
+import conversor.ConversionesGrados;
+import conversor.Medidas;
 import lista.ListaDeCompras;
 
 
@@ -28,7 +27,7 @@ public class Main {
         Scanner intOpcion = new Scanner(System.in);
 
         do {
-            banner.msj();
+            Banner.msj();
 
             ListaOpciones.cargarOpciones(listaOpciones);
 
@@ -39,16 +38,16 @@ public class Main {
             // Opciones
             switch (opcion) {
                 case 1:
-                    mate.programa();
+                    Mate.programa();
                     break;
                 case 2:
                    IMC.programaIMC();
                     break;
                 case 3:
-                conversiones.ejecutar();
+                ConversionesGrados.ejecutar();
                     break;
                 case 4:
-                    medidas.mds();
+                    Medidas.mds();
                     break;
                 case 5:
                     // Lógica para la opción 5
