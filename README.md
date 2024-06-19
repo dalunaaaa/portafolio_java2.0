@@ -42,6 +42,14 @@
 - **Archivo:** conversorMonedas.java
 - **Descripción:** contiene opciones para convertir los tipos de monedas de manera mas facil.
 
+### **Biblioteca**
+- **Archivo:** Biblioteca.java
+- **Descripción:** Este programa recompila 10 libros que hemos leido y los imprime por consola.
+
+### **Listado De Alumnos**
+- **Archivo:** Escuela.java
+- **Descripción:** Este programa nos permite ver el listado de alumnos, su correo electronico y las clases que llevan.
+
 ## 🚀 Cómo Empezar
 1. **Clona el Repositorio:**
 

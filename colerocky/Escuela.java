@@ -11,7 +11,7 @@ public class Escuela {
         Estudiantes E4 = new Estudiantes("Alejandro", "Ac@scl.edu.gt", "A", 8, true);
         Estudiantes E5 = new Estudiantes("mario", "mp@scl.edu.gt", "a", 8, true);
 
-        // Cursos
+        // Cursos9
 
         Cursos C1 = new Cursos("matematicas", "ciencias", "1");
         Cursos C2 = new Cursos("musica", "Arte", "2");
