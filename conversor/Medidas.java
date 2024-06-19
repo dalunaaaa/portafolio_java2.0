@@ -21,7 +21,7 @@ public class Medidas {
         } else {
             System.out.println("Unidad no válida.");
         }
-        System.out.println("-----------------------------------------");
+
     }
 
     private static double metrosAKilometros(double metros) {

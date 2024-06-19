@@ -45,7 +45,7 @@ public class Mate {
         System.out.println("Result: "+ i+ "\n");
 
 
-        System.out.println("----------------------------------------------");
+
     }
 
 }

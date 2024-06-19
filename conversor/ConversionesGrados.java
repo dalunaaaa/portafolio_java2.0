@@ -20,8 +20,6 @@ public class ConversionesGrados {
                 System.out.println("Unidad no válida. Por favor, ingrese 'C' para Celsius o 'F' para Fahrenheit.");
             }
 
-            System.out.println("---------------------------------");
-
         }
 
         private static double celsiusAFahrenheit(double celsius) {
