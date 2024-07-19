@@ -1,5 +1,8 @@
 package mis_metodos;
 
+import javax.swing.*;
+import java.awt.*;
+
 public class ListaOpciones {
     //Carga y muestra las opciones en grupos de dos, cada grupo en una línea separada.
     public static void cargarOpciones(String[] opciones) {
@@ -30,5 +33,9 @@ public class ListaOpciones {
         }
 
         return elementoMasGrande;
+
     }
+
 }
+
+
